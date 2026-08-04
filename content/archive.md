@@ -1,5 +1,5 @@
 ---
-title: "Archive"
-description: "All the books, papers, courses, and data on this website—listed in reverse-chronological order."
+title: "归档"
+description: "所有论文与课程资料，按时间倒序排列。"
 layout: "archives"
 ---
