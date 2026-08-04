@@ -18,12 +18,15 @@ menu:
         - name: Courses
           url: courses/
           weight: 2
+        - name: Essays
+          url: essays/
+          weight: 3
         - name: Tags
           url: tags/
-          weight: 3
+          weight: 4
         - name: Archive
           url: archive/
-          weight: 4
+          weight: 5
 
 params:
     description: "Honghui Zhu's academic website — research in modern logic and philosophy of logic."
@@ -41,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","courses"]
+    MainSections: ["papers","courses","essays"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -51,7 +54,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: 朱宏辉
+          title: "朱宏辉<br>Honghui Zhu"
           subtitle: "研究领域为现代逻辑与逻辑哲学 (modern logic and philosophy of logic)。"
           imageUrl: "picture.jpeg"
           imageWidth: 160
@@ -61,6 +64,8 @@ params:
               url: papers/
             - name: Courses
               url: courses/
+            - name: Essays
+              url: essays/
             - name: Tags
               url: tags/
             - name: Archive
