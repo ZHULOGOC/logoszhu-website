@@ -80,7 +80,7 @@ params:
 
     socialIcons:
         - name: Email
-          url: mailto:zhu.logoc@gmail.com
+          url: email/
         - name: ORCID
           url: https://orcid.org/0009-0002-9869-0072
 
