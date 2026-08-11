@@ -1,0 +1,25 @@
+/* Wider profile area for longer subtitle text */
+.main .profile {
+    max-width: 640px;
+}
+
+.profile .profile_inner {
+    gap: 14px;
+}
+
+/* Subtitle typography */
+.profile .profile_inner span {
+    font-size: 1rem;
+    line-height: 1.75;
+    color: var(--primary);
+}
+
+.profile .profile_inner span strong {
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.profile .profile_inner span br + strong {
+    display: inline-block;
+    margin-top: 8px;
+}

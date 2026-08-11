@@ -55,7 +55,14 @@ params:
     profileMode:
           enabled: true
           title: "朱宏辉<br>Honghui Zhu"
-          subtitle: "研究领域为现代逻辑与逻辑哲学 (modern logic and philosophy of logic)。"
+          subtitle: |
+            华东师范大学哲学博士，期间获国家留学基金委资助前往纽约市立大学研究生中心（CUNY Graduate Center）进行联合培养。
+
+            **研究领域 / Research Interests**
+
+            **现代逻辑 (Modern Logic)**：模态逻辑、非经典逻辑、形式语义学、证明论
+
+            **逻辑哲学 (Philosophy of Logic)**：真理理论、逻辑可容受性、推理与蕴涵理论、逻辑与认知
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
